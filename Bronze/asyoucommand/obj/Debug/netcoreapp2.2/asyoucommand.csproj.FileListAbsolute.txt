@@ -1,0 +1,11 @@
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\bin\Debug\netcoreapp2.2\asyoucommand.deps.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\bin\Debug\netcoreapp2.2\asyoucommand.runtimeconfig.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\bin\Debug\netcoreapp2.2\asyoucommand.runtimeconfig.dev.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\bin\Debug\netcoreapp2.2\asyoucommand.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\bin\Debug\netcoreapp2.2\asyoucommand.pdb
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\obj\Debug\netcoreapp2.2\asyoucommand.csprojAssemblyReference.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\obj\Debug\netcoreapp2.2\asyoucommand.csproj.CoreCompileInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\obj\Debug\netcoreapp2.2\asyoucommand.AssemblyInfoInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\obj\Debug\netcoreapp2.2\asyoucommand.AssemblyInfo.cs
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\obj\Debug\netcoreapp2.2\asyoucommand.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro2\Bronze\asyoucommand\obj\Debug\netcoreapp2.2\asyoucommand.pdb

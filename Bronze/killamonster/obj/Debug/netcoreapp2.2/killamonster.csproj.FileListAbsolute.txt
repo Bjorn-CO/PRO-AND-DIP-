@@ -1,0 +1,11 @@
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\bin\Debug\netcoreapp2.2\killamonster.deps.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\bin\Debug\netcoreapp2.2\killamonster.runtimeconfig.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\bin\Debug\netcoreapp2.2\killamonster.runtimeconfig.dev.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\bin\Debug\netcoreapp2.2\killamonster.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\bin\Debug\netcoreapp2.2\killamonster.pdb
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\obj\Debug\netcoreapp2.2\killamonster.csprojAssemblyReference.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\obj\Debug\netcoreapp2.2\killamonster.csproj.CoreCompileInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\obj\Debug\netcoreapp2.2\killamonster.AssemblyInfoInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\obj\Debug\netcoreapp2.2\killamonster.AssemblyInfo.cs
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\obj\Debug\netcoreapp2.2\killamonster.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.2\pro\Bronze\killamonster\obj\Debug\netcoreapp2.2\killamonster.pdb
